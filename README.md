@@ -41,6 +41,8 @@
 
 The player arrow uses your direction of travel if the server omits facing data. Heatmap colors show estimated spawn density.
 
+Test sounds play the original clips from your Steam installation of Rust. The app imports them locally the first time you play a test.
+
 The Tracker needs Rust to write its client log. If the tab shows no log activity, add <code>-logfile output_log.txt</code> to the Steam launch options for Rust and restart the game. Presence alerts depend on public Steam status.
 
 *An independent Windows app for Rust. Rust and Rust+ are products of Facepunch Studios.*
